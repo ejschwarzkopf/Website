@@ -11,7 +11,7 @@ title                    : "Enrique J. Schwarzkopf / My personal website"
 title_separator          : "-"
 name                     : &name "Enrique J. Schwarzkopf"
 description              : &description "" # haven't come up with a description yet
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ejschwarzkopf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ejschwarzkopf/ejschwarzkopf.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
